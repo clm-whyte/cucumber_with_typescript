@@ -2,15 +2,15 @@
   "name": "cucumber_with_typescript",
   "version": "1.0.0",
   "description": "Exercise in converting tau_cucumber_with_javascript into up-to-date Typescript and packages",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "wdio run ./wdio.conf.ts"
   },
   "repository": {
     "type": "git",
-    "url": "cucumber_with_typescript"
+    "url": "https://github.com/clm-whyte/cucumber_with_typescript"
   },
-  "author": "",
+  "author": "Calum Maciver-Whyte",
   "license": "ISC",
   "dependencies": {
     "webdriver": "^8.8.4"
