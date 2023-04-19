@@ -16,6 +16,10 @@
     "webdriver": "^8.8.4"
   },
   "devDependencies": {
+    "@babel/cli": "^7.21.0",
+    "@babel/core": "^7.21.4",
+    "@babel/preset-env": "^7.21.4",
+    "@babel/register": "^7.21.0",
     "@wdio/cli": "^8.8.4",
     "@wdio/cucumber-framework": "^8.8.4",
     "@wdio/local-runner": "^8.8.4",
